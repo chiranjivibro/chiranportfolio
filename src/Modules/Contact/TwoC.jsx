@@ -106,7 +106,7 @@ function TwoC() {
                     <div className="w-[100%] sm:w-[100%] md:w-[100%] lg:w-[100%] xl:w-[77%] float-right">
                     
                         <div className="flex flex-row justify-center gap-4 pt-4 pb-7">
-                            <a href="https://linkedin.com/in/chiranjivi-chaudhary-7878136b" target="_blank" rel="noopener noreferrer">
+                            <a href="https://www.linkedin.com/in/chiranjivi-chaudhary-7878136b" target="_blank" rel="noopener noreferrer">
                             <FaLinkedinIn color="#7c4091" size={18} />
                             </a>
                             <a href="https://www.facebook.com/kiran.tharu.12979" target="_blank" rel="noopener noreferrer">

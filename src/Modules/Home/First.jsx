@@ -21,7 +21,7 @@ function First() {
                     <div className='absolute top-[65px] left-[-39px]'>
                         <h3 className='relative font-secondary-head text-[16px] text-[#a434cc] uppercase tracking-[7px] rotate-[90deg] after:absolute after:top-[12px] after:right-[-65px] after:content:"" after:bg-[#728f15] after:w-[50px] after:h-[1px]' >About Me</h3>
                     </div>
-                    <p className=' font-secondary-head text-[17px] font-medium text-[#646464] text-justify leading-[31px]'>Based in Suryabinayak, Bhaktapur, Nepal, Chiranjivi Chaudhary is a Nepali UI/UX designer. I am Freelancer Platform's principal designer. Previously, I worked as a web designer and was a competent teacher. I conducts design workshops all over the world with an emphasis on UI/UX PSD and productive design. Photoshop PSD, Pixel Perfect Design, Slice, Cross-Browser Check, and Responsive Cross Check are all areas in which he excels.</p>
+                    <p className=' font-secondary-head text-[17px] font-medium text-[#646464] text-justify leading-[31px]'>Based in Suryabinayak, Bhaktapur, Nepal, Chiranjivi Chaudhary is a Nepali UI/UX Frontend Designer and Developer. I am Freelancer Platform's principal designer. Previously, I worked as a web designer and was a competent teacher. I conducts design workshops all over the world with an emphasis on UI/UX PSD and productive design. Photoshop PSD, Pixel Perfect Design, Slice, Cross-Browser Check, and Responsive Cross Check are all areas in which he excels.</p>
 
                 </div>
 

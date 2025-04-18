@@ -18,31 +18,31 @@ const projects = [
       title: "Bhavishya Consultancy",
       image: Bhavishya,
       description: "Consultancy for Abroad Study",
-      link: "#"
+      link: "https://bhavishya.com.au/"
     },
     {
       title: "Everonn Education",
       image: Everonn,
       description: "Carrer Path for Abroad",
-      link: "#"
+      link: "https://everonneducation.com/"
     },
     {
       title: "Cherub Education",
       image: Cherub,
       description: "Advance Counselling for Abroad",
-      link: "#"
+      link: "https://cherub.edu.np/"
     },
     {
       title: "IT Design Lab",
       image: ITdesign,
       description: "Empower Peoples for work",
-      link: "#"
+      link: "https://itdesignlab.org/"
     },
     {
       title: "Himalayan Trekking",
       image: Trekking,
       description: "Adventur Thrill Trekking",
-      link: "#"
+      link: "https://himalayanrandonner.com/"
     }
   ];
 

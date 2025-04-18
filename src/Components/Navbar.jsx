@@ -28,7 +28,7 @@ function Navbar() {
 
           {/* Desktop Social Icons (visible on lg and up) */}
           <div className="hidden lg:flex items-center gap-4">
-            <a href="www.linkedin.com/in/chiranjivi-chaudhary-7878136b" target="_blank" rel="noopener noreferrer"><FaLinkedinIn color="#d597ed" size={17} /></a>
+            <a href="https://www.linkedin.com/in/chiranjivi-chaudhary-7878136b" target="_blank" rel="noopener noreferrer"><FaLinkedinIn color="#d597ed" size={17} /></a>
             <a href="https://www.facebook.com/kiran.tharu.12979" target="_blank" rel="noopener noreferrer"><FaFacebookF color="#d597ed" size={17} /></a>
             <a href="https://x.com/chaudharychiran" target="_blank" rel="noopener noreferrer"><FaTwitter color="#d597ed" size={17} /></a>
             <a href="https://www.instagram.com/chiranjivi.official" target="_blank" rel="noopener noreferrer"><FaInstagram color="#d597ed" size={17} /></a>
@@ -70,7 +70,7 @@ function Navbar() {
           <NavLink to="/contact" onClick={() => setIsOpen(false)}>Contact</NavLink>
 
           <div className="flex gap-4 pt-4">
-          <a href="https://www.linkedin.com/in/chiranjivi-chaudhary-7878136b/" target="_blank" rel="noopener noreferrer">
+          <a href="https://www.linkedin.com/in/chiranjivi-chaudhary-7878136b" target="_blank" rel="noopener noreferrer">
             <FaLinkedinIn color="#7c4091" size={18} />
           </a>
             <a href="https://www.facebook.com/kiran.tharu.12979" target="_blank" rel="noopener noreferrer">
